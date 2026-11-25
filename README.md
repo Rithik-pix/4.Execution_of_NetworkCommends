@@ -67,12 +67,16 @@ This commands includes
 
 <img width="1026" height="910" alt="image" src="https://github.com/user-attachments/assets/8fa819db-dba2-46e3-9543-702d7786fb67" />
 
+<img width="1080" height="925" alt="image" src="https://github.com/user-attachments/assets/8bf1a193-86f2-4aaa-a1f2-323979cbf437" />
+
+
 
 ### systeminfo:
 
-<img width="874" height="738" alt="image" src="https://github.com/user-attachments/assets/79b3c189-890b-498e-949e-9ffdb481b002" />
+<img width="1202" height="896" alt="image" src="https://github.com/user-attachments/assets/98c1b0f6-097a-4184-be0e-cd22b3157bc2" />
 
-<img width="1014" height="701" alt="image" src="https://github.com/user-attachments/assets/374d63a5-98bb-403c-b524-c9de838ad8e9" />
+<img width="1470" height="503" alt="image" src="https://github.com/user-attachments/assets/ce3453e1-3209-4286-93d3-48fe5de2aef0" />
+
 
 
 ## Result
